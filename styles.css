@@ -1,8 +1,9 @@
                     /*BODY*/
 .wrapper {
-  block-size: fit-content;
-  width: fit-content;
-  overflow: auto;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 0px; /* Adjust padding as needed */
 }
 
                     /*TEXT SPECIFIC FORMATTING*/
@@ -47,9 +48,9 @@
                     /* START HEADER & FIRST SECTION */
 .background-image {
   background-image: url("images/background.png");
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: auto;
 }
 
 header {
@@ -181,14 +182,14 @@ header li a {
 }
 
 .tutorial-row {
-  padding-left: 50px;
+  padding-left: 10px;
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
 }
 .tutorial-block {
-  padding-right: 100px;
+  padding-right: 50px;
   font-family: arial;
   top: 30px;
   z-index: 1;
@@ -308,6 +309,7 @@ footer {
   width: auto;
   max-width: 1440px;
   margin: 0 auto;
+  padding: 0px 25px;
 }
 .footer-rows {
   max-width: 150px;
