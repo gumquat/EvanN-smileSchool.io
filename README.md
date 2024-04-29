@@ -24,6 +24,8 @@ Here's a short breakdown of the main sections;
    - **FAQ Section**: This section includes a Frequently Asked Questions (FAQ) section.
    - **Footer**: This section contains the website's logo, social media links, and a copyright notice.
 
+   ### - and (mostly) the same goes for the pricing and courses pages!
+
 ## CSS File (`styles.css`)
 
 My CSS file defines the styles for the aforementioend web page. 
