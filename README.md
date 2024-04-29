@@ -9,7 +9,7 @@
 This projects goal was to create a visually-appealing and responsive web page using advanced CSS techniques. 
 The HTML structure organizes the content into easy-to-understand and logical sections, and the CSS I wrote applies the styling needed to achieve the cohesive design I was shooting for. I use flexbox for layout, custom styling for individual elements, and include various interactive components (such as the banner button and the overlapping tutorial thumbnails) to demonstrat a higher level of CSS proficiency.
 
-## HTML File (`index.html`)
+## HTML File(s) (`index.html`, `pricing.html`, `courses.html`)
 
 My HTML file is the bones to a well-structured web page that showcases my advanced CSS implementation. 
 Here's a short breakdown of the main sections;
